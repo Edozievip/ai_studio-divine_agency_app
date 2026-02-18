@@ -1,0 +1,7 @@
+{
+  "name": "Divine Agency - Construction Materials",
+  "description": "Premium e-commerce platform for high-quality construction materials in Anambra State, Nigeria, featuring real-time AI voice assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
